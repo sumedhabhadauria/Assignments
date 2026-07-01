@@ -76,4 +76,5 @@ streamlit run app.py
 ## Developed By
 
 **Sumedha Bhadauria**
+
 Celebal Technologies Internship Project
