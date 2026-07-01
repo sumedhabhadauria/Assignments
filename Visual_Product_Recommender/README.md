@@ -73,8 +73,25 @@ streamlit run app.py
 
 ---
 
+## Note
+
+Some generated files and the dataset are not included in this repository because they exceed GitHub's storage and file size limits.
+
+The following files and folders have been excluded:
+
+- images/ (Fashion Product Images dataset - 44,441 images, approximately 13.8 GB)
+- Models/faiss_index.index
+- Models/siamese_model.keras
+- Outputs/embeddings.npy
+
+To run the complete project locally:
+
+1. Download and place the Fashion Product Images dataset inside the `images/` folder.
+2. Generate the required model and index files by running the notebooks in the `Notebooks/` folder in sequence.
+
+---
+
 ## Developed By
 
 **Sumedha Bhadauria**
-
 Celebal Technologies Internship Project
